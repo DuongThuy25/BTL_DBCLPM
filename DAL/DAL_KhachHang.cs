@@ -9,8 +9,6 @@ using DTO;
 using System.Runtime.Remoting.Messaging;
 using DAL;
 
-ruồi muỗi bọ nhặng gà gà gà
-
 namespace DAL
 {
     public class DAL_KhachHang : DBConnect
