@@ -26,7 +26,7 @@ namespace DTO
             this.HoTenKH = tenkh;
             this.DiaChiKH = diachikh;
             this.EmailKH = emailkh;
-            this.SDTKH = sdtkh;
+            this.SDTKH = sdttien;
 
         }
     }
